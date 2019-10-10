@@ -1,0 +1,8 @@
+D:\ProgramProjects\PC\Visual C#\Smart Home\Smart Home\bin\Debug\Smart Home.exe.config
+D:\ProgramProjects\PC\Visual C#\Smart Home\Smart Home\bin\Debug\Smart Home.exe
+D:\ProgramProjects\PC\Visual C#\Smart Home\Smart Home\bin\Debug\Smart Home.pdb
+D:\ProgramProjects\PC\Visual C#\Smart Home\Smart Home\obj\Debug\Smart_Home.Form1.resources
+D:\ProgramProjects\PC\Visual C#\Smart Home\Smart Home\obj\Debug\Smart_Home.Properties.Resources.resources
+D:\ProgramProjects\PC\Visual C#\Smart Home\Smart Home\obj\Debug\Smart Home.csproj.GenerateResource.Cache
+D:\ProgramProjects\PC\Visual C#\Smart Home\Smart Home\obj\Debug\Smart Home.exe
+D:\ProgramProjects\PC\Visual C#\Smart Home\Smart Home\obj\Debug\Smart Home.pdb
